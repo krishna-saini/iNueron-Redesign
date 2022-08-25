@@ -20,8 +20,6 @@ This is a solution to the hackathon conducted at https://www.findcoder.io/challe
 
 ### The challenge
 
-Users should be able to
-
 - code the given design [ineuron](https://ineuron.ai/) home page using any tech stack
 - make it responsive
 
