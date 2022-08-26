@@ -4,7 +4,7 @@ This is a solution to the hackathon conducted at https://www.findcoder.io/challe
 ## Table of contents
 
 - [Overview](#overview)
-
+  - [The Challenge](#The-challenge)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
